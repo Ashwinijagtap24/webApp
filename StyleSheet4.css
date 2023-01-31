@@ -1,0 +1,57 @@
+﻿body {
+    width:100%;
+   
+}
+.container {
+  
+    padding: 20px;
+    margin:auto;
+    width: 90%;
+   
+    background-color: #D5D8DC;
+}
+.container2 {
+    padding: 50px;
+    margin: auto;
+    width: 90%;
+    border: 5px solid #f1f1f1;
+    background-color: #D5D8DC;
+}
+.container3 {
+    padding: 60px;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #f1f1f1;
+    background-color: #D5D8DC;
+}
+.card-img-top {
+    padding: 20px;
+    margin: initial;
+    width: 60%;
+    border: 9px solid #f1f1f1;
+    box-shadow: 15px 9px 6px #808B96;
+    background-color: #D5D8DC;
+}
+.card-img-top1 {
+    padding: 30px;
+    margin: auto;
+    width: 70%;
+    box-shadow: 15px 9px 6px #808B96;
+    background-color: #D5D8DC;
+}
+.card-img-top3 {
+    padding: 20px;
+    margin:initial;
+    width: 70%;
+    box-shadow: 15px 9px 6px #808B96;
+
+    background-color: #D5D8DC
+}
+input[type=tel], input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 15px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
